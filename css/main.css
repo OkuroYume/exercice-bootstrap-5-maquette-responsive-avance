@@ -23,7 +23,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-
   font-size: 1rem;
   line-height: 1.25;
 }
@@ -37,4 +36,13 @@ video {
   max-inline-size: 100%;
   block-size: auto;
   vertical-align: middle;
+}
+
+header .container {
+  margin-top: 15px;
+}
+
+main .container {
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
